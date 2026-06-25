@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "bffe1bf4-2f61-40f7-88b7-ac85c377d071",
+  "path": "scipilot-figure-skill",
+  "path_key": "scipilot-figure-skill",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "haojae/scipilot-figure-skill/scipilot-figure-skill",
+    "subpath": null,
+    "branch": null
+  }
+}
