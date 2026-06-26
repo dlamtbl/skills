@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d8fdbba1-4d4b-4dc2-acb2-1d50fc1d234d",
+  "path": "nature-academic-search",
+  "path_key": "nature-academic-search",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/Yuan1z0825/nature-skills.git",
+    "subpath": "skills/nature-academic-search",
+    "branch": null
+  }
+}

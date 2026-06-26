@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a45fe803-a682-4464-a244-aa5f2fd7cb45",
+  "path": "nature-reader",
+  "path_key": "nature-reader",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/Yuan1z0825/nature-skills.git",
+    "subpath": "skills/nature-reader",
+    "branch": null
+  }
+}

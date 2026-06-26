@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "bd0cf770-14a0-4d9a-8a23-92aeab046c0c",
+  "path": "openclaw-medical-skills",
+  "path_key": "openclaw-medical-skills",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/Yuan1z0825/nature-skills.git",
+    "subpath": "skills/openclaw-medical-skills",
+    "branch": null
+  }
+}

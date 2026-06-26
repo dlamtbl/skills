@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5c278f60-2be9-4297-8faa-a26d65fd2340",
+  "path": "nature-citation",
+  "path_key": "nature-citation",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/Yuan1z0825/nature-skills.git",
+    "subpath": "skills/nature-citation",
+    "branch": null
+  }
+}

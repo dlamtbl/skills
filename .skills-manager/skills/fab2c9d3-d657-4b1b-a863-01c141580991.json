@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fab2c9d3-d657-4b1b-a863-01c141580991",
+  "path": "nature-paper-to-patent",
+  "path_key": "nature-paper-to-patent",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/Yuan1z0825/nature-skills.git",
+    "subpath": "skills/nature-paper-to-patent",
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c8b3623c-4bb6-443e-a744-5a7b481db375",
+  "path": "nature-writing",
+  "path_key": "nature-writing",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/Yuan1z0825/nature-skills.git",
+    "subpath": "skills/nature-writing",
+    "branch": null
+  }
+}
